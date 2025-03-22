@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on mobile application development.(.NET Core)<br>🌱 I’m currently learning Back-end (C#) and Artificial Intelligence, Machine Learning and Deep Learning (Python)<br>📫 How to reach me busradertli000@gmail.com<br>
+🔭 I'm currently working on WRB Back-End Development.(.NET Core)<br>🌱 I’m currently learning Artificial Intelligence, Machine Learning and Deep Learning (Python)<br>📫 How to reach me busradertli000@gmail.com<br>
 
 
 ## 🌐 Socials:
