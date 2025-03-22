@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on mobile application development.(FLUTTER)<br>🌱 I’m currently learning Frontend (HTML, CSS, JS, React)<br>📫 How to reach me busradertli000@gmail.com<br>
+🔭 I'm currently working on mobile application development.(.NET Core)<br>🌱 I’m currently learning Back-end (C#) and Artificial Intelligence, Machine Learning and Deep Learning (Python)<br>📫 How to reach me busradertli000@gmail.com<br>
 
 
 ## 🌐 Socials:
